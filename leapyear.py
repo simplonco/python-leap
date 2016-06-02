@@ -4,4 +4,4 @@
 4	            print n, "it is a leap year."
 5	    elif n%4!=0:
 6	        print n, "it is not a leap year."
-7	print leapyear(1900)
+7
